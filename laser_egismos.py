@@ -6,6 +6,8 @@
 `laser_egismos`
 ================================================================================
 
+*******NO UPDATES YET FOR TW-10S*******Will upload once code changes are complete************
+
 Device driver for the egismos series of lasers, available at
 https://www.egismos.com/laser-measuring-optoelectronics-module
 
